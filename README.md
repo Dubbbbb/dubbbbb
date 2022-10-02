@@ -1,5 +1,6 @@
 ### Hi there 👋
  test
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubbbbb)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Dubbbbb/dubbbbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

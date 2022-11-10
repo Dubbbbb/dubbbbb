@@ -1,7 +1,7 @@
 # WEB-Developer
 
 ## About me 
-1.5 years of experience with python (including training). Of these, about 6 months with Django, then switched to a Bottle due to a working project. I have enough experience with charts and big data. I also worked a lot with the API. Basic knowledge of JavaScript and Docker. In terms of soft skills, i am fast-learning and fast-paced, as well as self-sufficient. I will be glad to work in an interesting project and any curious acquaintances
+1.5 years of experience with python (including training). Of these, about 6 months with Django, then switched to a Bottle due to a working project. I have enough experience with charts and big data. I also worked a lot with the API. Basic knowledge of Linux and Docker. In terms of soft skills, i am fast-learning and fast-paced, as well as self-sufficient. I will be glad to work in an interesting project and any curious acquaintances
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/Python-696969?style=for-the-badge&logo=Python&logoColor=FF0000)
